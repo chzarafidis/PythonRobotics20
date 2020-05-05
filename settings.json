@@ -1,0 +1,21 @@
+{
+    "window.zoomLevel": 2,
+    "git.ignoreLegacyWarning": true,
+    "ev3devBrowser.additionalDevices": [
+        {
+            "name": "localhost - babis",
+            "ipAddress": "127.0.0.1",
+            "username": "babis"
+        },
+        {
+        "name": "localhost - robot",
+            "ipAddress": "127.0.0.1",
+            "username": "robot"    
+        }
+    ],
+    "ev3devBrowser.password": "",
+    "ev3devBrowser.download.directory": "",
+    "remote.SSH.showLoginTerminal": true,
+    "workbench.sideBar.location": "left",
+    "files.autoSave": "off"
+}
